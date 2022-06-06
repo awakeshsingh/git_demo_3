@@ -1,1 +1,13 @@
-hi this is to demonstarte git 
+hi this is to demonstarte git git push all mastergit push all mastergit push all mastergit push all master
+
+git remote add all https://github.com/awakeshsingh/git_demo.git
+git remote set-url --add --push all https://github.com/awakeshsingh/git_demo_1.git
+git remote set-url --add --push all https://github.com/awakeshsingh/git_demo_3.git
+
+first_repo_url	https://github.com/awakeshsingh/git_demo.git (fetch)
+first_repo_url	https://github.com/awakeshsingh/git_demo.git (push)
+second_repo_url	https://github.com/awakeshsingh/git_demo_1.git (fetch)
+second_repo_url	https://github.com/awakeshsingh/git_demo_1.git (push)
+third_repo_rul	https://github.com/awakeshsingh/git_demo_3.git (fetch)
+third_repo_rul	https://github.com/awakeshsingh/git_demo_3.git (push)
+
